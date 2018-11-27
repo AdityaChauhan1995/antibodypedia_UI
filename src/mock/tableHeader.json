@@ -1,0 +1,28 @@
+{
+    "tableHeaders": [
+        {
+            "header": "#"
+        },
+        {
+            "header": "NAME"
+        },
+        {
+            "header": "DESCRIPTION"
+        },
+        {
+            "header":"FAMILY"
+        },
+        {
+            "header": "CHROMOSOMES"
+        },
+        {
+            "header": "UNIPROT"
+        },
+        {
+            "header":"MOUSE ORTHOLOG"
+        },
+        {
+            "header":"ANTIBODIES"
+        }
+    ]
+}

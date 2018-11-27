@@ -1,0 +1,64 @@
+{
+    "tableRows": [
+        {
+            "sno": 1,
+            "name": [
+                "HIF1A",
+                "Synonyms: bHLHe78, HIF-1alpha, HIF1, MOP1, PASD8"
+            ],
+            "description": "Hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)",
+            "family": [
+                "Ca",
+                "Up",
+                "Pp",
+                "Za",
+                "Eb",
+                "Tf"
+            ],
+            "chromosome": "14:q23.2",
+            "uniprot": "Q16665",
+            "mouseOrtholog": "Hif1a",
+            "antibodies": ["1926 antibodies", "from 48 providers"]
+        },
+        {
+            "sno": 2,
+            "name": [
+                "ATF2",
+                "Synonyms: CRE-BP1, CREB2, HB16, TREB7"
+            ],
+            "description": "Activating transcription factor 2",
+            "family": [
+                "Ez",
+                "Up",
+                "Za",
+                "Ea",
+                "Eb",
+                "Tf"
+            ],
+            "chromosome": "2:q31.1",
+            "uniprot": "P15336",
+            "mouseOrtholog": "Atf2",
+            "antibodies": ["2176 antibodies", "from 45 providers"]
+        },
+        {
+            "sno": 3,
+            "name": [
+                "STAT1",
+                "Synonyms: ISGF-3, STAT91"
+            ],
+            "description": "Signal transducer and activator of transcription 1",
+            "family": [
+                "Dr",
+                "Up",
+                "Pp",
+                "Za",
+                "Eb",
+                "Ea"
+            ],
+            "chromosome": "2:q32.2",
+            "uniprot": "P42224",
+            "mouseOrtholog": "Stat1",
+            "antibodies": ["2031 antibodies", "from 49 providers"]
+        }
+    ]
+}
